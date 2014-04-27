@@ -45,4 +45,4 @@ I love you
 this equals:
 J lniq zoy 
 
-This program was configured for the purpose of solving one of two problems apart of problem set 2 of cs50.
+This program was configured for the purpose of solving a problem set from an EDX course.
